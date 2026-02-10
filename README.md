@@ -1,7 +1,7 @@
 # Software Quality Management – Bangkok Bank
 
 This repository contains a Software Quality Management (SQM) case study
-for Bangkok Bank’s digital banking system (Bualuang mBanking).
+for Bangkok Bank’s digital banking system.
 
 ## Quality Objectives
 - Ensure secure and reliable financial transactions
